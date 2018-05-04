@@ -13,9 +13,11 @@
         android:id="@+id/one"/>
     <TextView
         android:id="@+id/txtONe"
+        android:layout_marginTop="100dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/one"
+        android:textColor="@color/colorPrimary"
         android:text="fragment one" />
 
 </FrameLayout>
